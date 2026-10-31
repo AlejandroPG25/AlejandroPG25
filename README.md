@@ -3,8 +3,12 @@
 :computer: **Bacteriólogo y Laboratorista Clínico :alembic:**
 :pencil: **Trabajador de la Salud**
 :eyeglasses: **Soñador**
-:oncoming_automobile: **Fan de las motos, video juegos y tecnología**
+:motorcycle: **Fan de las motos, video juegos y tecnología**
 :seedling: **Comenzando en el mundo de la programación**
+
+### Vías de Contacto
+
+![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/:storeId)
 
 <!--
 **AlejandroPG25/AlejandroPG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
