@@ -1,18 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-:alembic: **Bacteriólogo y Laboratorista Clínico**
--
-:pencil: **Trabajador de la Salud**
--
-:eyeglasses: **Soñador**
--
-:motorcycle: **Fan de las motos, video juegos y tecnología**
--
-:seedling: **Comenzando en el mundo de la programación**
--
-### Vías de Contacto
+#### :alembic: **Bacteriólogo y Laboratorista Clínico**
 
-![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/:storeId)
+#### :pencil: **Trabajador de la Salud**
+
+#### :eyeglasses: **Soñador**
+
+#### :motorcycle: **Fan de las motos, video juegos y tecnología**
+
+#### :seedling: **Comenzando en el mundo de la programación**
+
+## Lenguajes
+
+![PyPI Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+
 
 <!--
 **AlejandroPG25/AlejandroPG25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
