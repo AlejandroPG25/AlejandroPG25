@@ -1,11 +1,15 @@
 ## Hi there 👋
 
 :alembic: **Bacteriólogo y Laboratorista Clínico**
+-
 :pencil: **Trabajador de la Salud**
+-
 :eyeglasses: **Soñador**
+-
 :motorcycle: **Fan de las motos, video juegos y tecnología**
+-
 :seedling: **Comenzando en el mundo de la programación**
-
+-
 ### Vías de Contacto
 
 ![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/:storeId)
