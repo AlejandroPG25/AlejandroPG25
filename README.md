@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-:computer: **Bacteriólogo y Laboratorista Clínico :alembic:**
+:alembic: **Bacteriólogo y Laboratorista Clínico**
 :pencil: **Trabajador de la Salud**
 :eyeglasses: **Soñador**
 :motorcycle: **Fan de las motos, video juegos y tecnología**
